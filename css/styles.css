@@ -1,0 +1,204 @@
+.background {
+  position: absolute;
+  top: 350px;
+  width: 100%;
+}
+
+.black {
+  position: absolute;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+.documents {
+  position: absolute;
+  left: 365px;
+  top: 370px;
+}
+
+.folder {
+  position: absolute;
+  left: 420px;
+  top: 375px;
+}
+
+.upload {
+  position: absolute;
+  left: 480px;
+  top: 375px;
+}
+
+.logo {
+  position: absolute;
+  left: 350px;
+  top: 290px;
+  height: 40px;
+}
+
+.bus {
+  position: absolute;
+  top: 250px;
+  left: 300px;
+  background-color: hsl(228, 56%, 26%);
+  height: 180px;
+  width: 330px;
+  border-top-right-radius: 75px;
+}
+
+.train {
+  display: inline-block;
+  position: absolute;
+  background-color: hsl(228, 56%, 26%);
+  height: 130px;
+  width: 450px;
+  top: 300px;
+  left: 650px;
+  border-radius: 10px;
+}
+
+.back {
+  background-color: black;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 360px;
+  left: 470px;
+}
+
+.backf {
+  background-color: black;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 360px;
+  left: 410px;
+}
+
+.backu {
+  background-color: black;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 360px;
+  left: 350px;
+}
+
+.line {
+  position: absolute;
+  border-radius: 20px;
+  background-color: hsl(229, 57%, 11%);
+  height: 10px;
+  width: 350px;
+  top: 60px;
+  left: 40px;
+}
+
+.pink {
+  top: 60px;
+  position: absolute;
+  background-color: hsl(335, 100%, 65%);
+  height: 10px;
+  width: 250px;
+  border-radius: 20px;
+  left: 40px;
+}
+
+.circle {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background-color: white;
+  border-radius: 5px;
+  left: 280px;
+  top: 60px;
+}
+
+.square {
+  position: absolute;
+  background-color: white;
+  height: 50px;
+  width: 142px;
+  border-radius: 10px;
+  left: 900px;
+  top: 270px;
+  border-bottom-right-radius: 0px;
+}
+
+.n {
+  display: inline-block;
+  color: white;
+  opacity: 100%;
+}
+
+p {
+  position: relative;
+  font-size: 13px;
+  top: 10px;
+  left: 25px;
+  color: white;
+  display: inline-block;
+  opacity: 60%;
+}
+
+.triangle {
+  position: absolute;
+  top: 320px;
+  left: 1019px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 20px 3px 0 20px;
+  border-color: white transparent transparent transparent;
+}
+
+.gb {
+
+  top: 60px;
+  position: absolute;
+  color: white;
+  opacity: 60%;
+  left: 40px;
+}
+.ggb{
+
+  position: absolute;
+  left: 340px;
+  top: 60px;
+}
+.numberone{
+
+position: absolute;
+bottom: 200px;
+  color: black;
+ left: 920px;
+ top: 280px;
+ font-weight:bold;
+font-size: 30px;
+
+}
+.numbereight{
+  position: absolute;
+  left: 935px;
+top: 255px;
+  color: black;
+  line-height: 110%;
+  font-weight:bold;
+
+}
+.numberfive{
+  position: absolute;
+  top: 260px;
+  left: 950px;
+  color: black;
+line-height: 110%;
+font-weight:bold;
+
+
+}
+.left{
+position: absolute;
+left: 980px;
+top: 275px;
+color: black;
+}
